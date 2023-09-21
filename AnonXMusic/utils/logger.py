@@ -28,10 +28,10 @@ async def play_logs(message, streamtype):
 
 ┣★**𝐒𝐫𝐞𝐚𝐦 𝐓𝐲𝐩𝐞:** {streamtype}
 ━━━━━━━━━━━━━━━━━━━━━━━"""
-        if message.chat.id != LOG_GROUP_ID:
+        if message.chat.id != LOGGER_ID:
             try:
                 await app.send_message(
-                    LOG_GROUP_ID,
+                    LOGGER_ID,
                     text=logger_text,
                     disable_web_page_preview=True,
                 )
