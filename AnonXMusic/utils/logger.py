@@ -7,25 +7,32 @@ from config import LOGGER_ID
 
 async def play_logs(message, streamtype):
     if await is_on_off(2):
-        logger_text = f"""
-<b>{app.mention} ᴘʟᴀʏ ʟᴏɢ</b>
+        logger_text = f""" ━━━━━━━━━━━━━━━━━━━━━━━     
+**{MUSIC_BOT_NAME} 𝐏𝐥𝐚𝐲 𝐋𝐨𝐠𝐠𝐞𝐫**
+┏━━━━━━━━━━━━━━━━━┓
+       ༺𝐂𝐡𝐚𝐭 𝐈𝐧𝐟𝐨༻
+┗━━━━━━━━━━━━━━━━━┛      
+┣★**𝐂𝐡𝐚𝐭:** {message.chat.title} [`{message.chat.id}`]
+┣★**𝐂𝐡𝐚𝐭 𝐋𝐢𝐧𝐤:** {chatusername}
+┏━━━━━━━━━━━━━━━━━┓
+       ༺𝐔𝐬𝐞𝐫 𝐈𝐧𝐟𝐨༻
+┗━━━━━━━━━━━━━━━━━┛ 
+┣★**𝐔𝐬𝐞𝐫:** {message.from_user.mention}
 
-<b>ᴄʜᴀᴛ ɪᴅ :</b> <code>{message.chat.id}</code>
-<b>ᴄʜᴀᴛ ɴᴀᴍᴇ :</b> {message.chat.title}
-<b>ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ :</b> @{message.chat.username}
+┣★**𝐔𝐬𝐞𝐫𝐍𝐚𝐦𝐞:** @{message.from_user.username}
+┣★**𝐈𝐝:** `{message.from_user.id}`
+┏━━━━━━━━━━━━━━━━━┓
+       ༺𝐏𝐥𝐚𝐲 𝐈𝐧𝐟𝐨༻
+┗━━━━━━━━━━━━━━━━━┛ 
+┣★**𝐒𝐞𝐚𝐫𝐜𝐡 𝐒𝐨𝐧𝐠:** {message.text}
 
-<b>ᴜsᴇʀ ɪᴅ :</b> <code>{message.from_user.id}</code>
-<b>ɴᴀᴍᴇ :</b> {message.from_user.mention}
-<b>ᴜsᴇʀɴᴀᴍᴇ :</b> @{message.from_user.username}
-
-<b>ǫᴜᴇʀʏ :</b> {message.text.split(None, 1)[1]}
-<b>sᴛʀᴇᴀᴍᴛʏᴘᴇ :</b> {streamtype}"""
-        if message.chat.id != LOGGER_ID:
+┣★**𝐒𝐫𝐞𝐚𝐦 𝐓𝐲𝐩𝐞:** {streamtype}
+━━━━━━━━━━━━━━━━━━━━━━━"""
+        if message.chat.id != LOG_GROUP_ID:
             try:
                 await app.send_message(
-                    chat_id=LOGGER_ID,
+                    LOG_GROUP_ID,
                     text=logger_text,
-                    parse_mode=ParseMode.HTML,
                     disable_web_page_preview=True,
                 )
             except:
