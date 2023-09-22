@@ -48,7 +48,7 @@ class Userbot(Client):
 
     async def start(self):
         LOGGER(__name__).info(f""**» {config.MUSIC_BOT_NAME} ᴀssɪsᴛᴀɴᴛ ᴏɴᴇ sᴛᴀʀᴛᴇᴅ :**\n\n✨ ɪᴅ : `{self.one.id}`\n❄ ɴᴀᴍᴇ : {self.one.name}\n💫 ᴜsᴇʀɴᴀᴍᴇ : @{self.one.username}"
-
+            )
 import config
 
 from ..logging import LOGGER
