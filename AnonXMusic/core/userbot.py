@@ -47,9 +47,9 @@ class Userbot(Client):
         )
 
     async def start(self):
-        LOGGER(__name__).info(f"self.me.first_name + " " + (self.me.last_name or "")
-        self.username = self.me.username
-        self.mention = self.me.mention
+        LOGGER(__name__).info(f"Starting Assistants...")
+        if config.STRING1:
+            await self.one.start()
         if config.STRING1:
             await self.one.start()
             try:
