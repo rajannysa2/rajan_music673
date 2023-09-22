@@ -50,8 +50,6 @@ class Userbot(Client):
         LOGGER(__name__).info(f"Starting Assistants...")
         if config.STRING1:
             await self.one.start()
-        if config.STRING1:
-            await self.one.start()
             try:
                 await self.one.join_chat("TKS_JOIN")
                 await self.one.join_chat("TKS_JOIN")
