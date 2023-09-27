@@ -1,5 +1,5 @@
 ━━━━━━━━━━━━━━━━
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
+### 🌷𝐌𝐔𝐒𝐈𝐂🌷
 
 <!--
 **_ll_SARKAR_BABE_ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@
 <h2 align="center">
     ─「 𝐒𝐀𝐑𝐊𝐀𝐑 𝐌𝐔𝐒𝐈𝐂 」─
 
-★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
+★ 𝐇𝐄𝐑𝐎𝐊𝐔 + 𝐃𝐄𝐏𝐋𝐎𝐘 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐒𝐀𝐑𝐊𝐀𝐑+𝐎𝐏+𝐁𝐎𝐋𝐓𝐄+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=💥𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔💥;⚡+𝐍𝐎+𝐇𝐄𝐑𝐎𝐊𝐔+𝐁𝐀𝐍+𝐁𝐀𝐁𝐘+𝐅𝐔𝐋𝐋+𝐒𝐀𝐅𝐄+𝐑𝐄𝐏𝐎+📍+𝐑𝐄𝐏𝐎+𝐄𝐃𝐈𝐓+𝐒𝐀𝐑𝐊𝐀𝐑+𝐎𝐏𝐏+🎭">
 <p align="center">
   <img src="https://telegra.ph/file/b30cb38e28a79cef71747.jpg">
 </p>
@@ -27,7 +27,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=🔥𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬🔥">
 
 
 <h3 align="center">
