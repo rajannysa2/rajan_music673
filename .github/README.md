@@ -22,8 +22,7 @@
 <p align="center">
   <img src="https://telegra.ph/file/b30cb38e28a79cef71747.jpg">
 </p>
-
-**𝐌𝐘 𝐁𝐎𝐓 ➣ [❛-𝐑α∂нα᭄ [🚩] Ɽoboʈ 🎸](https://t.me/ll_RADHA_MUSICBOT)**
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=💥+𝐌𝐘+𝐁𝐎𝐓+➣ [❛-𝐑α∂нα᭄ [🚩] Ɽoboʈ 🎸](https://t.me/ll_RADHA_MUSICBOT)**
 
 
 
