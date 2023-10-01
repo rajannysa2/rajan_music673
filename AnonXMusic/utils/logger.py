@@ -8,7 +8,6 @@ from config import LOGGER_ID
 async def play_logs(message, streamtype):
     if await is_on_off(2):
         logger_text = f""" ━━━━━━━━━━━━━━━━━━━━━━━     
-**{MUSIC_BOT_NAME} 𝐏𝐥𝐚𝐲 𝐋𝐨𝐠𝐠𝐞𝐫**
 ┏━━━━━━━━━━━━━━━━━┓
        ༺𝐂𝐡𝐚𝐭 𝐈𝐧𝐟𝐨༻
 ┗━━━━━━━━━━━━━━━━━┛      
