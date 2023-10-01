@@ -10,7 +10,6 @@ def start_panel(_):
             InlineKeyboardButton(
                 text="𝐀𝙳𝙳 ◈ 𝐌𝙴 ◈ 𝐁𝙰𝙱𝚈•", url=f"https://t.me/{app.username}?startgroup=true"
         ],
-    ]
     return buttons
 
 
