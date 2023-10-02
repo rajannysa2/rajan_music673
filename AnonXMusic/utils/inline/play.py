@@ -151,7 +151,6 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
             InlineKeyboardButton(
                 text="☞︎︎︎𝗦𝗨𝗣𝗣𝗢𝗥𝗧☜︎︎︎", url="https://t.me/TKS_CHAT_OFFICIAL"
             ),
-            ),
             InlineKeyboardButton(
                 text="▷",
                 callback_data=f"slider F|{query_type}|{query}|{user_id}|{channel}|{fplay}",
