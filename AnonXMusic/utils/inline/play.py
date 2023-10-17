@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="☞︎︎︎𝗦𝗨𝗣𝗣𝗢𝗥𝗧☜︎︎︎", url="https://t.me/TKS_CHAT_OFFICIAL"
+                text="☞︎︎︎𝗦𝗨𝗣𝗣𝗢𝗥𝗧☜︎︎︎", url="https://t.me/all_exam_quiz_new"
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -154,7 +154,7 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="☞︎︎︎𝗦𝗨𝗣𝗣𝗢𝗥𝗧☜︎︎︎", url="https://t.me/TKS_CHAT_OFFICIAL"
+                text="☞︎︎︎𝗦𝗨𝗣𝗣𝗢𝗥𝗧☜︎︎︎", url="https://t.me/all_exam_quiz_new"
             ),
             InlineKeyboardButton(
                 text="▷",
